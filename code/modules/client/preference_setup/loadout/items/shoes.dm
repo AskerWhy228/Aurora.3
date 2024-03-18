@@ -64,6 +64,11 @@
 	path = /obj/item/clothing/shoes/heels
 	flags = GEAR_HAS_NAME_SELECTION | GEAR_HAS_DESC_SELECTION | GEAR_HAS_COLOR_SELECTION
 
+/datum/gear/shoes/gwen_shoes
+	display_name = "doll shoes"
+	path = /obj/item/clothing/shoes/laceup/gwen
+	flags = GEAR_HAS_NAME_SELECTION | GEAR_HAS_DESC_SELECTION
+
 /datum/gear/shoes/sandals
 	display_name = "sandals selection"
 	path = /obj/item/clothing/shoes/sandals

@@ -217,6 +217,14 @@
 	icon_state = "zeng_gloves"
 	item_state = "zeng_gloves"
 
+/obj/item/clothing/gloves/gwen
+	name = "dolly gloves"
+	desc = "A dolly gloves?"
+	icon = 'icons/obj/item/clothing/gloves/dolly_gloves.dmi'
+	icon_state = "dolly_gloves"
+	item_state = "dolly_gloves"
+	contained_sprite = TRUE
+
 /obj/item/clothing/gloves/kala
 	name = "skrell gloves"
 	desc = "A sleek pair of gloves! They seem to be retaining moisture."

@@ -95,6 +95,12 @@
 	display_name = "horrible tie"
 	path = /obj/item/clothing/accessory/horrible
 
+/datum/gear/accessory/doll
+	display_name =  "doll bow"
+	description = "A hair bow with a small removable clip on the back, so it can be attached to hair or tied into it. Has golden parts in it"
+	path = /obj/item/clothing/head/pin/ribbon/gwen
+	flags = GEAR_HAS_NAME_SELECTION | GEAR_HAS_DESC_SELECTION
+
 /datum/gear/accessory/neck_accessories_colourable
 	display_name = "neck accessories selection (colourable)"
 	description = "A selection of various neck accessories, such as ribbons and bows."

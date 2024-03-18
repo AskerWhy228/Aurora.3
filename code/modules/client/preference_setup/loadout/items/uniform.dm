@@ -328,6 +328,12 @@
 	path = /obj/item/clothing/under/kimono
 	flags = GEAR_HAS_NAME_SELECTION | GEAR_HAS_DESC_SELECTION | GEAR_HAS_COLOR_SELECTION
 
+/datum/gear/uniform/miscellaneous/gwen_dress
+	display_name = "Doll dress"
+	description = "A cute dolly dress?"
+	path = /obj/item/clothing/under/gwen
+	flags = GEAR_HAS_NAME_SELECTION | GEAR_HAS_DESC_SELECTION
+
 /datum/gear/uniform/circuitry
 	display_name = "jumpsuit, circuitry (empty)"
 	path = /obj/item/clothing/under/circuitry
